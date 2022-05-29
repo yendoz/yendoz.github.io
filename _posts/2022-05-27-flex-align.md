@@ -4,6 +4,7 @@ classes: wide
 title:  "More CSS. Flexbox"
 categories: CSS
 tags: [flexbox, MoreCSS]
+toc: true
 sidebar:
     nav: docs
 ---
