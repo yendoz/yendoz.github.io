@@ -1,6 +1,5 @@
 ---
 layout: single
-classes: wide
 title:  "More JS. JSON.parse()"
 categories: JavaScript
 tags: [30DaysOfJS, JSON, MoreJS]
