@@ -10,6 +10,8 @@ main:
     url: /search/
 
 docs:
+  - title: "Home"
+    url: "https://yendoz.github.io/"
   - title: "About"
     url: /about/
   - title: "Contents"
