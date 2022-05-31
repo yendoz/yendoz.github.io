@@ -3,6 +3,7 @@ title:  "More CSS. Flexbox"
 categories: CSS
 tags: [flexbox, MoreCSS]
 toc: true
+toc_sticky: true
 sidebar:
     nav: docs
 ---

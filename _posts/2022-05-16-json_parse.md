@@ -4,6 +4,7 @@ title:  "More JS. JSON.parse()"
 categories: JavaScript
 tags: [30DaysOfJS, JSON, MoreJS]
 toc: true
+toc_sticky: true
 sidebar:
     nav: docs
 ---
